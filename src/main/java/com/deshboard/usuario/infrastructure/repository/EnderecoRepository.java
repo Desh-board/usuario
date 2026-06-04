@@ -1,6 +1,6 @@
 package com.deshboard.usuario.infrastructure.repository;
 
-import com.deshboard.aprendendo_spring.infraestructure.entity.Endereco;
+import com.deshboard.usuario.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
